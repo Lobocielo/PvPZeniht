@@ -1,3 +1,6 @@
+-- ZENIHT PvP SCRIPT FINAL 🔥
+-- Con protección avanzada, bypass y estilo rojo/negro
+
 local webhookUrl = "https://discord.com/api/webhooks/1395923560916193301/Q2gD4P3Xy6HMRLFczAlo7FEgT5FkmstXI_U_wOCQeObuJgI6VmDMFMHKFHc97O4MBgPL"
 
 local Players = game:GetService("Players")
